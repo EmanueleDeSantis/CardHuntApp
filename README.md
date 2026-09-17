@@ -1,6 +1,6 @@
 # CardHunt
 
-CardHunt is a location-based mobile game in which players explore real-world places to collect virtual cards. Cards are real — the actual photo capture of a target real-world place. Staff members, which are moderators together with the admin, place cards at GPS coordinates with a collection radius; when a player enters the radius, they can capture the card by taking a photo with the phone camera. The photo is stylized according to the card's rarity (Common, Rare, Epic, Legendary), stored in the player's collection, and awards XP and achievements.
+CardHuntApp is a location-based mobile game in which players explore real-world places to collect virtual cards. Cards are real actual photo capture of a target real-world place. Staff members, which are moderators together with the admin, place cards at GPS coordinates with a collection radius; when a player enters the radius, they can capture the card by taking a photo with the phone camera. The photo is stylized according to the card's rarity (Common, Rare, Epic, Legendary), stored in the player's collection, and awards XP and achievements.
 
 ## Functionalities
 
