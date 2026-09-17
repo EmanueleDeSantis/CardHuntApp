@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+PyJWT
+firebase-admin
+requests
+Pillow
