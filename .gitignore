@@ -15,12 +15,10 @@
 .cxx
 local.properties
 
-# Python
-__pycache__/
-*.pyc
-*.db
+# Secrets
+secret.properties
 firebase-service-account.json
 
-# Secrets
-secrets.properties
+# Python
+*.db
 firebase-service-account.json
