@@ -54,4 +54,8 @@ CLOUDINARY_UPLOAD_PRESET=cardhunt_unsigned
 
 ### Backend setup
 
+<<<<<<< HEAD
 See [app/backend/README.md](app/backend/README.md).
+=======
+See [app/backend/README.md](app/backend/README.md).
+>>>>>>> 9bbafe87fae84a314633c417988ef51226770eb3
