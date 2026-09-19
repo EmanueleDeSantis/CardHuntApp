@@ -31,11 +31,11 @@ android {
         }
 
         buildConfigField("String", "API_BASE_URL",
-            "\"${secretsProperties.getProperty("API_BASE_URL", "PLACEHOLDER_URL")}\"")
+            "\"${secretsProperties.getProperty("API_BASE_URL")}\"")
         buildConfigField("String", "CLOUDINARY_CLOUD_NAME",
-            "\"${secretsProperties.getProperty("CLOUDINARY_CLOUD_NAME", "PLACEHOLDER_CLOUD")}\"")
+            "\"${secretsProperties.getProperty("CLOUDINARY_CLOUD_NAME")}\"")
         buildConfigField("String", "CLOUDINARY_UPLOAD_PRESET",
-            "\"${secretsProperties.getProperty("CLOUDINARY_UPLOAD_PRESET", "PLACEHOLDER_PRESET")}\"")
+            "\"${secretsProperties.getProperty("CLOUDINARY_UPLOAD_PRESET")}\"")
     }
 
     buildTypes {

@@ -16,7 +16,7 @@
 local.properties
 
 # Secrets
-secret.properties
+secrets.properties
 firebase-service-account.json
 
 # Python
